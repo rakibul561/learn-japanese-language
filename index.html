@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>জাপানিজ ভাষা শিখুন (Japanese-Bangla)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <div class="logo" onclick="switchView('home')">
+                <span>🎌</span> Japanese Pro
+            </div>
+            <div class="nav-links">
+                <div id="nav-home" class="nav-link active" onclick="switchView('home')">Home</div>
+                <div id="nav-challenge" class="nav-link" onclick="switchView('challenge')">Challenge</div>
+            </div>
+        </div>
+    </nav>
+    <div id="app">
+        <!-- Home Screen -->
+        <div id="home-screen" class="view">
+            <header>
+                <h1>জাপানিজ শিখুন (বাংলায়)</h1>
+                <p>সবচেয়ে সহজ উপায়ে জাপানিজ ভোকাবুলারি আয়ত্ত করুন</p>
+            </header>
+            <div id="lesson-grid" class="grid"></div>
+        </div>
+
+        <!-- Lesson View -->
+        <div id="lesson-view" class="view hidden">
+            <div class="session-header">
+                <button id="btn-close" class="btn-close">&times;</button>
+                <div class="progress-bar-container">
+                    <div id="progress-bar-fill" class="progress-bar-fill"></div>
+                </div>
+            </div>
+
+            <div id="game-content"></div>
+        </div>
+
+        <!-- Challenge Screen -->
+        <div id="challenge-screen" class="view hidden">
+            <header>
+                <h1>Global Quiz Challenge</h1>
+                <p>সব লেসন থেকে র্যান্ডম শব্দ ও অর্থ যাচাই করুন</p>
+            </header>
+            <div id="challenge-quiz" class="game-container animate-slide"></div>
+            <div id="challenge-footer" class="hidden" style="text-align:center; margin-top:2rem;">
+                <button class="btn-primary" onclick="initChallenge()">আবার শুরু করুন (Restart)</button>
+            </div>
+        </div>
+
+        <!-- Custom Confirmation Modal -->
+        <div id="custom-confirm" class="modal-overlay hidden">
+            <div class="modal-content">
+                <h2 id="confirm-msg">আপনি কি নিশ্চিত?</h2>
+                <div class="modal-actions">
+                    <button id="confirm-yes" class="btn-primary">হ্যাঁ</button>
+                    <button id="confirm-no" class="btn-secondary">না</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
