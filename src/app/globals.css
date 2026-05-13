@@ -674,3 +674,37 @@ nav {
     }
 }
 
+/* Kanji View Styles */
+.kanji-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem 0;
+}
+
+.kanji-char-large {
+    font-size: 4.5rem;
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+    color: #111; /* dark color to look like an image */
+    line-height: 1;
+}
+
+.kanji-char-huge {
+    font-size: 8rem;
+    font-weight: 900;
+    color: #111;
+    line-height: 1;
+}
+
+@media (max-width: 768px) {
+    .kanji-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+    .kanji-char-large {
+        font-size: 3.5rem;
+    }
+    .kanji-char-huge {
+        font-size: 6rem;
+    }
+}

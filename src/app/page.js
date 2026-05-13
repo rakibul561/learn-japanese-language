@@ -5,6 +5,8 @@ import LessonGrid from '@/components/LessonGrid';
 import LessonView from '@/components/LessonView';
 import ChallengeView from '@/components/ChallengeView';
 import KanaView from '@/components/KanaView';
+import KatakanaWordsView from '@/components/KatakanaWordsView';
+import KanjiView from '@/components/KanjiView';
 import Modal from '@/components/Modal';
 import { lessonsData } from '@/data/lessons';
 
@@ -60,6 +62,14 @@ export default function Home() {
 
             {view === 'kana' && (
                 <KanaView />
+            )}
+
+            {view === 'katakana' && (
+                <KatakanaWordsView setView={setView} />
+            )}
+
+            {view === 'kanji' && (
+                <KanjiView />
             )}
 
             {view === 'lesson' && selectedLesson && (

@@ -1,0 +1,371 @@
+{
+    "title": "N5 Katakana Words List",
+    "data": [
+        {
+            "id": 1,
+            "japanese": "アパート",
+            "romaji": "apaato",
+            "bangla": "এপার্টমেন্ট"
+        },
+        {
+            "id": 2,
+            "japanese": "バス",
+            "romaji": "basu",
+            "bangla": "বাস"
+        },
+        {
+            "id": 3,
+            "japanese": "バター",
+            "romaji": "bataa",
+            "bangla": "মাখন"
+        },
+        {
+            "id": 4,
+            "japanese": "ベッド",
+            "romaji": "beddo",
+            "bangla": "বিছানা"
+        },
+        {
+            "id": 5,
+            "japanese": "ボールペン",
+            "romaji": "boorupen",
+            "bangla": "বলপয়েন্ট কলম"
+        },
+        {
+            "id": 6,
+            "japanese": "ボタン",
+            "romaji": "botan",
+            "bangla": "বোতাম"
+        },
+        {
+            "id": 7,
+            "japanese": "デパート",
+            "romaji": "depaato",
+            "bangla": "ডিপার্টমেন্টাল স্টোর"
+        },
+        {
+            "id": 8,
+            "japanese": "ドア",
+            "romaji": "doa",
+            "bangla": "দরজা"
+        },
+        {
+            "id": 9,
+            "japanese": "エレベーター",
+            "romaji": "erebeetaa",
+            "bangla": "লিফট"
+        },
+        {
+            "id": 10,
+            "japanese": "フィルム",
+            "romaji": "firumu",
+            "bangla": "ফিল্ম"
+        },
+        {
+            "id": 11,
+            "japanese": "フォーク",
+            "romaji": "fooku",
+            "bangla": "কাঁটাচামচ"
+        },
+        {
+            "id": 12,
+            "japanese": "ギター",
+            "romaji": "gitaa",
+            "bangla": "গিটার"
+        },
+        {
+            "id": 13,
+            "japanese": "グラム",
+            "romaji": "guramu",
+            "bangla": "গ্রাম"
+        },
+        {
+            "id": 14,
+            "japanese": "ハンカチ",
+            "romaji": "hankachi",
+            "bangla": "রুমাল"
+        },
+        {
+            "id": 15,
+            "japanese": "ホテル",
+            "romaji": "hoteru",
+            "bangla": "হোটেল"
+        },
+        {
+            "id": 16,
+            "japanese": "カメラ",
+            "romaji": "kamera",
+            "bangla": "ক্যামেরা"
+        },
+        {
+            "id": 17,
+            "japanese": "カップ",
+            "romaji": "kappu",
+            "bangla": "কাপ"
+        },
+        {
+            "id": 18,
+            "japanese": "カレー",
+            "romaji": "karee",
+            "bangla": "তরকারি (কারি)"
+        },
+        {
+            "id": 19,
+            "japanese": "カレンダー",
+            "romaji": "karendaa",
+            "bangla": "ক্যালেন্ডার"
+        },
+        {
+            "id": 20,
+            "japanese": "キログラム",
+            "romaji": "kiroguramu",
+            "bangla": "কিলোগ্রাম"
+        },
+        {
+            "id": 21,
+            "japanese": "キロメートル",
+            "romaji": "kiromeetoru",
+            "bangla": "কিলোমিটার"
+        },
+        {
+            "id": 22,
+            "japanese": "コーヒー",
+            "romaji": "koohii",
+            "bangla": "কফি"
+        },
+        {
+            "id": 23,
+            "japanese": "コート",
+            "romaji": "kooto",
+            "bangla": "কোট"
+        },
+        {
+            "id": 24,
+            "japanese": "コピー",
+            "romaji": "kopii",
+            "bangla": "কপি, ফটোকপি"
+        },
+        {
+            "id": 25,
+            "japanese": "コップ",
+            "romaji": "koppu",
+            "bangla": "গ্লাস, কাপ"
+        },
+        {
+            "id": 26,
+            "japanese": "クラス",
+            "romaji": "kurasu",
+            "bangla": "ক্লাস, শ্রেণী"
+        },
+        {
+            "id": 27,
+            "japanese": "マッチ",
+            "romaji": "macchi",
+            "bangla": "ম্যাচ, দিয়াশলাই"
+        },
+        {
+            "id": 28,
+            "japanese": "メートル",
+            "romaji": "meetoru",
+            "bangla": "মিটার"
+        },
+        {
+            "id": 29,
+            "japanese": "ナイフ",
+            "romaji": "naifu",
+            "bangla": "ছুরি"
+        },
+        {
+            "id": 30,
+            "japanese": "ネクタイ",
+            "romaji": "nekutai",
+            "bangla": "টাই"
+        },
+        {
+            "id": 31,
+            "japanese": "ノート",
+            "romaji": "nooto",
+            "bangla": "নোটবুক, খাতা"
+        },
+        {
+            "id": 32,
+            "japanese": "ニュース",
+            "romaji": "nyuusu",
+            "bangla": "খবর"
+        },
+        {
+            "id": 33,
+            "japanese": "パーティー",
+            "romaji": "paatii",
+            "bangla": "পার্টি, অনুষ্ঠান"
+        },
+        {
+            "id": 34,
+            "japanese": "パン",
+            "romaji": "pan",
+            "bangla": "পাউরুটি"
+        },
+        {
+            "id": 35,
+            "japanese": "ページ",
+            "romaji": "peeji",
+            "bangla": "পৃষ্ঠা"
+        },
+        {
+            "id": 36,
+            "japanese": "ペン",
+            "romaji": "pen",
+            "bangla": "কলম"
+        },
+        {
+            "id": 37,
+            "japanese": "ペット",
+            "romaji": "petto",
+            "bangla": "পোষা প্রাণী"
+        },
+        {
+            "id": 38,
+            "japanese": "ポケット",
+            "romaji": "poketto",
+            "bangla": "পকেট"
+        },
+        {
+            "id": 39,
+            "japanese": "ポスト",
+            "romaji": "posuto",
+            "bangla": "ডাকবাক্স"
+        },
+        {
+            "id": 40,
+            "japanese": "プール",
+            "romaji": "puuru",
+            "bangla": "সুইমিং পুল"
+        },
+        {
+            "id": 41,
+            "japanese": "ラジオ",
+            "romaji": "rajiio",
+            "bangla": "রেডিও"
+        },
+        {
+            "id": 42,
+            "japanese": "レコード",
+            "romaji": "rekoodo",
+            "bangla": "রেকর্ড"
+        },
+        {
+            "id": 43,
+            "japanese": "レストラン",
+            "romaji": "resutoran",
+            "bangla": "রেস্টুরেন্ট"
+        },
+        {
+            "id": 44,
+            "japanese": "セーター",
+            "romaji": "seetaa",
+            "bangla": "সোয়েটার"
+        },
+        {
+            "id": 45,
+            "japanese": "シャツ",
+            "romaji": "shatsu",
+            "bangla": "শার্ট"
+        },
+        {
+            "id": 46,
+            "japanese": "シャワー",
+            "romaji": "shawaa",
+            "bangla": "ঝর্ণা (গোসলের জন্য)"
+        },
+        {
+            "id": 47,
+            "japanese": "スカート",
+            "romaji": "sukaato",
+            "bangla": "স্কার্ট"
+        },
+        {
+            "id": 48,
+            "japanese": "スポーツ",
+            "romaji": "supootsu",
+            "bangla": "খেলাধুলা"
+        },
+        {
+            "id": 49,
+            "japanese": "スプーン",
+            "romaji": "supuun",
+            "bangla": "চামচ"
+        },
+        {
+            "id": 50,
+            "japanese": "スリッパ",
+            "romaji": "surippa",
+            "bangla": "স্লিপার, চটি জুতা"
+        },
+        {
+            "id": 51,
+            "japanese": "ストーブ",
+            "romaji": "sutoobu",
+            "bangla": "হিটার, চুলা"
+        },
+        {
+            "id": 52,
+            "japanese": "タクシー",
+            "romaji": "takushii",
+            "bangla": "ট্যাক্সি"
+        },
+        {
+            "id": 53,
+            "japanese": "テーブル",
+            "romaji": "teeburu",
+            "bangla": "টেবিল"
+        },
+        {
+            "id": 54,
+            "japanese": "テープ",
+            "romaji": "teepu",
+            "bangla": "টেপ"
+        },
+        {
+            "id": 55,
+            "japanese": "テープレコーダー",
+            "romaji": "teepurekoodaa",
+            "bangla": "টেপ রেকর্ডার"
+        },
+        {
+            "id": 56,
+            "japanese": "テレビ",
+            "romaji": "terebi",
+            "bangla": "টেলিভিশন, টিভি"
+        },
+        {
+            "id": 57,
+            "japanese": "テスト",
+            "romaji": "tesuto",
+            "bangla": "পরীক্ষা, টেস্ট"
+        },
+        {
+            "id": 58,
+            "japanese": "トイレ",
+            "romaji": "toire",
+            "bangla": "টয়লেট"
+        },
+        {
+            "id": 59,
+            "japanese": "ワイシャツ",
+            "romaji": "waishatsu",
+            "bangla": "শার্ট"
+        },
+        {
+            "id": 60,
+            "japanese": "ゼロ",
+            "romaji": "zero",
+            "bangla": "শূন্য"
+        },
+        {
+            "id": 61,
+            "japanese": "ズボン",
+            "romaji": "zubon",
+            "bangla": "প্যান্ট, ট্রাউজার"
+        }
+    ]
+}

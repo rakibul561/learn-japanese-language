@@ -26,6 +26,18 @@ export default function Navbar({ currentView, setView }) {
                     >
                         Kana
                     </div>
+                    <div 
+                        className={`nav-link ${currentView === 'katakana' ? 'active' : ''}`} 
+                        onClick={() => setView('katakana')}
+                    >
+                        Katakana Word
+                    </div>
+                    <div 
+                        className={`nav-link ${currentView === 'kanji' ? 'active' : ''}`} 
+                        onClick={() => setView('kanji')}
+                    >
+                        Kanji
+                    </div>
                 </div>
             </div>
         </nav>
